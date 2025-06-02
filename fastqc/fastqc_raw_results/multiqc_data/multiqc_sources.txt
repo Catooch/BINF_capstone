@@ -1,0 +1,7 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR2584863_1	/scratch/jgwall/ecoli_variation/data/fastqc_raw_results/SRR2584863_1_fastqc.zip
+FastQC	all_sections	SRR2584866_1	/scratch/jgwall/ecoli_variation/data/fastqc_raw_results/SRR2584866_1_fastqc.zip
+FastQC	all_sections	SRR2589044_2	/scratch/jgwall/ecoli_variation/data/fastqc_raw_results/SRR2589044_2_fastqc.zip
+FastQC	all_sections	SRR2584866_2	/scratch/jgwall/ecoli_variation/data/fastqc_raw_results/SRR2584866_2_fastqc.zip
+FastQC	all_sections	SRR2584863_2	/scratch/jgwall/ecoli_variation/data/fastqc_raw_results/SRR2584863_2_fastqc.zip
+FastQC	all_sections	SRR2589044_1	/scratch/jgwall/ecoli_variation/data/fastqc_raw_results/SRR2589044_1_fastqc.zip
